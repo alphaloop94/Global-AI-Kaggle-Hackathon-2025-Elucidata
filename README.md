@@ -1,4 +1,3 @@
-# Global-AI-Kaggle-Hackathon-2025-Elucidata
 # 🔬 Elucidata AI Challenge 2025 – Spatial Cell-Type Composition Prediction
 
 Ranked **Top 204** in the **Global AI Kaggle Hackathon 2025** (Mar–May 2025) organized by Elucidata.
