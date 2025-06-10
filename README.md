@@ -39,44 +39,53 @@ Predict the composition of 35 different cell types at specific spatial locations
 
 ## 🚀 How to Run
 
-1. Install dependencies:
+1. **Install dependencies:**  
    ```bash
    pip install tensorflow h5py pandas opencv-python scikit-learn
+   ```
 
-2. Place the dataset file:
+2. **Place the dataset file:**  
+   Download `elucidata_ai_challenge_data.h5` from Kaggle and place it under:
+   ```bash
+   /kaggle/input/el-hackathon-2025/
+   ```
 
-elucidata_ai_challenge_data.h5 (from Kaggle) under /kaggle/input/el-hackathon-2025/
+3. **Run the training & prediction pipeline:**  
+   ```bash
+   python your_script.py
+   ```
 
-3. Run the training & prediction pipeline:
+4. **Output:**  
+   The final output will be saved as:
+   ```bash
+   submission.csv
+   ```
 
-```bash
-python your_script.py
+---
 
-4. The final output will be saved as:
+## 📈 Results
 
-submission.csv
+- ✅ Trained a 4-model ensemble combining **EfficientNetB0**, **B1**, **B2**, and **ResNet50**
+- 🧠 Incorporated both **histological features** and **spatial coordinates**
+- 📊 Achieved competitive performance with strong generalization on the test slide
+- 🏆 Final Ranking: **Top 204** among global participants
 
-📈 Results
-Trained a 4-model ensemble combining EfficientNetB0, B1, B2, and ResNet50
+---
 
-Incorporated both histological features and spatial coordinates
+## 📂 Dataset
 
-Achieved competitive performance with strong generalization on the test slide
-
-Final Ranking: Top 204 among global participants
-
-📂 Dataset
 The dataset consists of:
 
-Whole-slide images in HDF5 format
+- 🖼️ Whole-slide images in **HDF5** format
+- 📍 Spot-level annotations with:
+  - `x, y` coordinates
+  - Relative cell type composition (**35 types**)
+- 🔬 One test slide (`S_7`) for final evaluation
 
-Spot-level annotations with coordinates (x, y) and relative cell type composition (35 types)
+---
 
-One test slide (S_7) for final evaluation
+## 📦 Files
 
-📦 Files
-your_script.py: Main script for data preparation, model training, and prediction
-
-models/: Directory where trained models are saved (generated automatically)
-
-submission.csv: Final output file in Kaggle submission format
+- `your_script.py`: Main script for data preparation, model training, and prediction
+- `models/`: Directory where trained models are saved (generated automatically)
+- `submission.csv`: Final output file in Kaggle submission format
